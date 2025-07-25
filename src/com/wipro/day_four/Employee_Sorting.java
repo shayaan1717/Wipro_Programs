@@ -14,7 +14,8 @@ class Employee{
 	    }
 }
 public class Employee_Sorting {
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		List<Employee> employee= new ArrayList<>() ;
 			employee.add(new Employee("A",01));
 			employee.add(new Employee("N",02));
