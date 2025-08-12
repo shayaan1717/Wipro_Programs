@@ -26,8 +26,6 @@ public class MainApp {
 	     
 	     bill.showBillFormat();  
 	     bill.generate(6500); 
-
-
 	}
 
 }
